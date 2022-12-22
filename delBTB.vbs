@@ -1,6 +1,6 @@
 Sub delBTB()
 '
-' delBTB Macro
+    ' delBTB Macro 
 '
 ' Keyboard Shortcut: Ctrl+d
 '
