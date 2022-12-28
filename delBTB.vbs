@@ -27,3 +27,4 @@ Sub delBTB()
         199, 206), Operator:=xlFilterCellColor
     ActiveSheet.Range("$A$1:$B$4328").AutoFilter Field:=2, Criteria1:="BTB"
 End Sub
+            
